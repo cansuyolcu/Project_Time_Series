@@ -14,5 +14,5 @@
 - StateHoliday: indicate which state holiday (a = public holiday, b = Easter holiday, c = Christmas, 0 = None)
 - SchoolHoliday: indicates if the (Store, Date) was affected by the closure of public schools
 
-The dataset is from [Kaggle]((https://www.kaggle.com/c/rossmann-store-sales/data)).
+The dataset is from [Kaggle](https://www.kaggle.com/c/rossmann-store-sales/data).
 
